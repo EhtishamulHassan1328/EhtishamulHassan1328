@@ -4,7 +4,7 @@
 <br>
 🌱 I’m currently advancing my knowledge in web development and exploring various artificial intelligence concepts.
 <br>
-💼 I have almost 1 year of industry experience, with expertise in .NET and Angular, as well as in the field of NLP/AI. I hold four certifications in Deep learning.
+💼 I have almost 2 year of industry experience, with expertise in .NET and Angular, as well as in the field of NLP/AI. I hold four certifications in Deep learning.
 <br>
 💻 I am currently working at OAK Street Technologies, a product company developing an ERP system.
 <br>
